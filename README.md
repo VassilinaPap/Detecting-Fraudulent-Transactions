@@ -5,3 +5,7 @@ This case study addresses an instantiation of the general problem of detecting u
 * outlier or anomaly detection, 
 * clustering, and also 
 * semi-supervised prediction models.
+
+This project contains implements several unsupervised techniques(Local Outlier Factor, Box Plot Rule) as well as supervised algorithms(Naive Bayes, Ada Boost). Also to achieve greater accuracy for this certain data we use semi-supervised techniques along with cross validation.
+
+This project refers to Data Mining with R-Kumar book.
